@@ -1,0 +1,422 @@
+{
+    "southern-coms": {
+        "vlan_id": "2",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-telecoms": {
+        "vlan_id": "4",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "presentation": {
+        "vlan_id": "5",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-public": {
+        "vlan_id": "6",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "experience": {
+        "vlan_id": "7",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-servers": {
+        "vlan_id": "10",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "es-apn": {
+        "vlan_id": "15",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "stan-vlan": {
+        "vlan_id": "20",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "microwave": {
+        "vlan_id": "60",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "soc-public": {
+        "vlan_id": "100",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sms-wlv-legacy": {
+        "vlan_id": "105",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-mgmt": {
+        "vlan_id": "129",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-server": {
+        "vlan_id": "130",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-client": {
+        "vlan_id": "131",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-voip": {
+        "vlan_id": "132",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv_trz": {
+        "vlan_id": "134",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-print": {
+        "vlan_id": "135",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv_mit": {
+        "vlan_id": "137",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "dmz": {
+        "vlan_id": "138",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wilmington-temp": {
+        "vlan_id": "139",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "bt-net-test": {
+        "vlan_id": "166",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "asa_spare_sync": {
+        "vlan_id": "167",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "soc-wan": {
+        "vlan_id": "190",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "rvs-central": {
+        "vlan_id": "200",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "rvs-production": {
+        "vlan_id": "201",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "rvs-servers": {
+        "vlan_id": "202",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "rvs-operations": {
+        "vlan_id": "203",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "cctv": {
+        "vlan_id": "220",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "clouddirect-vrrp": {
+        "vlan_id": "245",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "iscss-ich": {
+        "vlan_id": "247",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "iscss-ifs": {
+        "vlan_id": "249",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "iscsi": {
+        "vlan_id": "250",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sync-vlan-asa": {
+        "vlan_id": "251",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "alert-services": {
+        "vlan_id": "252",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "immix": {
+        "vlan_id": "253",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "managment": {
+        "vlan_id": "254",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "webwaydmz": {
+        "vlan_id": "255",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "risco-dmz": {
+        "vlan_id": "260",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "redcarecobralink": {
+        "vlan_id": "268",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "milestone-web-dmz": {
+        "vlan_id": "269",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "loomis-rac": {
+        "vlan_id": "270",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "loomis-hsrp": {
+        "vlan_id": "271",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "loomis-coordinator": {
+        "vlan_id": "272",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "emizon": {
+        "vlan_id": "275",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "redcare": {
+        "vlan_id": "276",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "redcare_wan_fenny": {
+        "vlan_id": "277",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "redcare_wan_cobra": {
+        "vlan_id": "278",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "immixprxydmz": {
+        "vlan_id": "280",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "temp-internet": {
+        "vlan_id": "299",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "nethouse": {
+        "vlan_id": "300",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-dmz-a": {
+        "vlan_id": "301",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-dmz-e": {
+        "vlan_id": "306",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-dmz-f": {
+        "vlan_id": "307",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-trz-b": {
+        "vlan_id": "308",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-technol": {
+        "vlan_id": "315",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "pxe_boot": {
+        "vlan_id": "350",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "bt-cobra": {
+        "vlan_id": "500",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "bt-fenny": {
+        "vlan_id": "501",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "stp_carrier": {
+        "vlan_id": "555",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-fw-link": {
+        "vlan_id": "900",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sms_soc-wan": {
+        "vlan_id": "901",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "vmotion": {
+        "vlan_id": "950",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "outside3": {
+        "vlan_id": "951",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-outside5": {
+        "vlan_id": "953",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "csl-adsl": {
+        "vlan_id": "960",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "csl-3g": {
+        "vlan_id": "961",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "redcare-kx1": {
+        "vlan_id": "962",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "redcare-kx2": {
+        "vlan_id": "963",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "immix_outside": {
+        "vlan_id": "964",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "rsiserver": {
+        "vlan_id": "965",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sms-tesco-vcp": {
+        "vlan_id": "966",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sms_5512_sync": {
+        "vlan_id": "976",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "wlv-legacy": {
+        "vlan_id": "1005",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "ecc-connection": {
+        "vlan_id": "1016",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sms_inetfw": {
+        "vlan_id": "1010",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sms_inetheartbeat": {
+        "vlan_id": "1011",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-vmguest": {
+        "vlan_id": "1098",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-vmotion": {
+        "vlan_id": "1255",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-iscsi1": {
+        "vlan_id": "1257",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-iscsi2": {
+        "vlan_id": "1259",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-replica": {
+        "vlan_id": "1260",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-vcguest-mk": {
+        "vlan_id": "1280",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "sec-uk-vcguest-wv": {
+        "vlan_id": "1281",
+        "subnet": "",
+        "subnet6": ""
+    },
+    "outsidemain": {
+        "vlan_id": "2020",
+        "subnet": "",
+        "subnet6": ""
+    }
+}

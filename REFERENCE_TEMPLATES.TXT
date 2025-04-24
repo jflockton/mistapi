@@ -1,0 +1,60 @@
+//ACCESS
+{
+    "port_usages": {
+        "cobra_vlan500": {
+            "mode": "access",
+            "disabled": false,
+            "port_network": null,
+            "voip_network": null,
+            "stp_edge": false,
+            "use_vstp": false,
+            "port_auth": null,
+            "allow_multiple_supplicants": null,
+            "enable_mac_auth": null,
+            "mac_auth_only": null,
+            "guest_network": null,
+            "bypass_auth_when_server_down": null,
+            "dynamic_vlan_networks": null,
+            "stp_p2p": false,
+            "stp_no_root_port": false,
+            "mac_auth_protocol": null,
+            "reauth_interval": null,
+            "all_networks": false,
+            "network": [
+                "immix"
+            ],
+            "speed": "auto",
+            "duplex": "auto",
+            "mac_limit": 0,
+            "persist_mac": false,
+            "poe_disabled": true,
+            "enable_qos": false,
+            "storm_control": {},
+            "mtu": null,
+            "description": "",
+            "disable_autoneg": false
+        }
+    },
+    "port_config": {
+        "ge-0/0/2": {
+            "usage": "cobra_vlan500",
+            "dynamic_usage": null,
+            "critical": false,
+            "description": "5525_pri_gig0",
+            "no_local_overwrite": true
+        }
+    }
+}
+
+//PORT CONFIG
+{
+    "port_config": {
+        "ge-0/0/2": {
+            "usage": "",
+            "dynamic_usage": null,
+            "critical": false,
+            "description": "5525_pri_gig2",
+            "no_local_overwrite": true
+        }
+    }
+}
