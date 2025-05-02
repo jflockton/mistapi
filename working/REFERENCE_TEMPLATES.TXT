@@ -34,17 +34,7 @@
             "description": "",
             "disable_autoneg": false
         }
-    },
-    "port_config": {
-        "ge-0/0/2": {
-            "usage": "cobra_vlan500",
-            "dynamic_usage": null,
-            "critical": false,
-            "description": "5525_pri_gig0",
-            "no_local_overwrite": true
-        }
     }
-}
 
 //PORT CONFIG
 {
@@ -58,3 +48,22 @@
         }
     }
 }
+// adding additional IP's to interfaces
+
+    "other_ip_configs": {
+        "sec-uk-mgmt": {
+            "type": "static",
+            "ip": "192.168.253.243",
+            "netmask": "255.255.255.0"
+        },
+        "mk-soc-fw-hb": {
+            "type": "static",
+            "ip": "192.168.222.2",
+            "netmask": "255.255.255.128"
+        },
+        "wlv-soc-fw-hb": {
+            "type": "static",
+            "ip": "192.168.223.2",
+            "netmask": "255.255.255.0"
+        }
+    },

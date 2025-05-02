@@ -1,0 +1,11 @@
+{
+    "port_config": {
+        "ge-0/0/2": {
+            "usage": "",
+            "dynamic_usage": null,
+            "critical": false,
+            "description": "5525_pri_gig2",
+            "no_local_overwrite": true
+        }
+    }
+}
